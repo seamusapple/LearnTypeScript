@@ -11,4 +11,6 @@ type User = [number, string];
 
 const newUser: User = [112, "dp"];
 newUser[1] = "dong";
-newUser.push(true);
+// newUser.push(true);
+
+export {};
